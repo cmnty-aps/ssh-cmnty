@@ -1,0 +1,8 @@
+{
+  "name": "WebSSH & Terminal",
+  "description": "Browser-Based SSH Client & Web Terminal",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
